@@ -2,7 +2,7 @@
   "name": "book-explore",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://book-explorer.github.io/react-gh-pages",
+  "homepage": "https://calinzabalt.github.io/book-explorer/",
   "dependencies": {
     "boostrap": "^2.0.0",
     "bootstrap": "^4.1.1",
